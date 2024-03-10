@@ -1,5 +1,8 @@
 # SyriaTel Customer Churn Project
 
+![SyriaTel Logo](images/syriatel.png)
+
+
 ## Overview
 This project aims to develop a machine learning model to predict customer churn for SyriaTel, a telecommunications company. By identifying customers at risk of churning, SyriaTel can implement targeted retention strategies to minimize customer loss and improve overall business performance.
 
@@ -42,4 +45,11 @@ The dataset contains information about SyriaTel customers, including account det
 
 ## Acknowledgments
 The dataset used in this project is sourced from [BigML](https://bigml.com/).
+
+For detailed implementation, analysis, and results, please refer to the notebook.
+
+This README file serves as a brief summary of the SyriaTel Customer Churn Project. For further information and insights, please explore the project repository.
+
+
+
 
